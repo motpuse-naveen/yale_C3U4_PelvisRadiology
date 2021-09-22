@@ -2,11 +2,1199 @@
 
 	{
 		"header": {
-			"titleText": "Radiology Chest"
+			"titleText": "Pelvis Radiology"
 		},
 		"pageSection": {
 			"titleInstruction": "Drag and drop the labels.",
 			"hotSpotImageSrc": "assets/Question_01.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			342,
+			494,
+			550,
+			500,
+			576,
+			653
+		],
+		"TopPos": [
+			295,
+			144,
+			300,
+			326,
+			350,
+			80
+		],
+		"OptionArray": [
+			"Sacrum",
+			"Ischium",
+			"Pubis",
+			"Pubic symphasis",
+			"Femoral neck",
+			"Ilium"
+		],
+		"DropPosition": [
+			"Left",
+			"Top",
+			"Top",
+			"Left",
+			"Right",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Femoral neck",
+			"Sacrum",
+			"Pubis",
+			"Pubic symphasis",
+			"Ischium",
+			"Ilium"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Pelvis Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_02.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			359,
+			355,
+			507,
+			800
+		],
+		"TopPos": [
+			239,
+			335,
+			245,
+			275
+		],
+		"OptionArray": [
+			"Sacroiliac joint",
+			"Psoas",
+			"LLium",
+			"Sacrum"
+		],
+		"DropPosition": [
+			"Left",
+			"Left",
+			"Top",
+			"Bottom"
+		],
+		"CorrectOptionArray": [
+			"Psoas",
+			"Sacroiliac joint",
+			"Sacrum",
+			"LLium"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Pelvis Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_03.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			532,
+			328,
+			540,
+			820
+		],
+		"TopPos": [
+			129,
+			330,
+			300,
+			219
+		],
+		"OptionArray": [
+			"Anal canal",
+			"Femoral neck",
+			"Pubic symphasis",
+			"Ischial tuberocity"
+		],
+		"DropPosition": [
+			"Left",
+			"Bottom",
+			"Bottom",
+			"Top"
+		],
+		"CorrectOptionArray": [
+			"Pubic symphasis",
+			"Ischial tuberocity",
+			"Anal canal",
+			"Femoral neck"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Pelvis Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_04.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			149,
+			398,
+			449,
+			479
+		],
+		"TopPos": [
+			57,
+			114,
+			199,
+			301
+		],
+		"OptionArray": [
+			"External oblique",
+			"Rectus abdominis",
+			"Transverse abdominis",
+			"Internal oblique"	
+		],
+		"DropPosition": [
+			"Bottom",
+			"Right",
+			"Right",
+			"Left"
+		],
+		"CorrectOptionArray": [
+			"Rectus abdominis",
+			"External oblique",
+			"Internal oblique",
+			"Transverse abdominis"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Pelvis Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_05.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			550,
+			692,
+			717,
+			642,
+			811
+		],
+		"TopPos": [
+			195,
+			345,
+			124,
+			196,
+			331
+		],
+		"OptionArray": [
+			"Piriformis",
+			"LLiacus",
+			"Gluteus medius",
+			"Gluteus  maximus",
+			"Gluteus minimus"	
+		],
+		"DropPosition": [
+			"Left",
+			"Left",
+			"Top",
+			"Right",
+			"Top"
+		],
+		"CorrectOptionArray": [
+			"Gluteus medius",
+			"Gluteus  maximus",
+			"LLiacus",
+			"Gluteus minimus",
+			"Piriformis"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Pelvis Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_06.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			450,
+			529,
+			612
+		],
+		"TopPos": [
+			249,
+			212,
+			305
+		],
+		"OptionArray": [
+			"Aorta",
+			"IVC",
+			"Psoas"
+		],
+		"DropPosition": [
+			"Left",
+			"Right",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"IVC",
+			"Aorta",
+			"Psoas"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Pelvis Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_07.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			324,
+			508,
+			515,
+			522
+		],
+		"TopPos": [
+			177,
+			334,
+			275,
+			347
+		],
+		"OptionArray": [
+			"Rectum",
+			"Bladder",
+			"Femoral head",
+			"Coccyx"
+		],
+		"DropPosition": [
+			"Left",
+			"Right",
+			"Left",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Femoral head",
+			"Bladder",
+			"Rectum",
+			"Coccyx"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Pelvis Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_08.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			161,
+			285,
+			716,
+			713
+		],
+		"TopPos": [
+			72,
+			295,
+			116,
+			442
+		],
+		"OptionArray": [
+			"Body",
+			"Mediastinum",
+			"Tail",
+			"Head"
+		],
+		"DropPosition": [
+			"Left",
+			"Right",
+			"Left",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Mediastinum",
+			"Head",
+			"Body",
+			"Tail"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Pelvis Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_09.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			375,
+			471,
+			618,
+			643
+		],
+		"TopPos": [
+			72,
+			78,
+			53,
+			180
+		],
+		"OptionArray": [
+			"Tunica albuginea",
+			"Urethra",
+			"Corpus spongiosum",
+			"Corpus cavernosum"
+		],
+		"DropPosition": [
+			"Left",
+			"Right",
+			"Left",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Corpus spongiosum",
+			"Urethra",
+			"Tunica albuginea",
+			"Corpus cavernosum"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Pelvis Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_10.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			489,
+			544,
+			499
+		],
+		"TopPos": [
+			64,
+			156,
+			250
+		],
+		"OptionArray": [
+			"Corpus spongiosum",
+			"Corpus cavernosum",
+			"Dorsal vein of penis"
+		],
+		"DropPosition": [
+			"Left",
+			"Right",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Dorsal vein of penis",
+			"Corpus cavernosum",
+			"Corpus spongiosum"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Pelvis Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_11.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			453,
+			477,
+			476
+		],
+		"TopPos": [
+			247,
+			383,
+			432
+		],
+		"OptionArray": [
+			"Anal canal",
+			"Bulb of penis",
+			"Crus of penis"
+		],
+		"DropPosition": [
+			"Left",
+			"Right",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Crus of penis",
+			"Bulb of penis",
+			"Anal canal"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Pelvis Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_12.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			502,
+			473,
+			509,
+			666,
+			713
+		],
+		"TopPos": [
+			105,
+			308,
+			420,
+			214,
+			242
+		],
+		"OptionArray": [
+			"Acetabulum",
+			"Femoral head",
+			"Seminal vesicle",
+			"Anal canal",
+			"Bladder"
+		],
+		"DropPosition": [
+			"Left",
+			"Right",
+			"Left",
+			"Right",
+			"Left"
+		],
+		"CorrectOptionArray": [
+			"Bladder",
+			"Seminal vesicle",
+			"Acetabulum",
+			"Femoral head",
+			"Anal canal"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Pelvis Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_13.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			476,
+			493,
+			483,
+			458,
+			828
+		],
+		"TopPos": [
+			45,
+			235,
+			308,
+			427,
+			302
+		],
+		"OptionArray": [
+			"Prostate",
+			"Coccyx",
+			"Bladder",
+			"Greater trochanter",
+			"Anal canal"
+		],
+		"DropPosition": [
+			"Left",
+			"Right",
+			"Left",
+			"Right",
+			"Left"
+		],
+		"CorrectOptionArray": [
+			"Bladder",
+			"Prostate",
+			"Anal canal",
+			"Coccyx",
+			"Greater trochanter"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Pelvis Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_14.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			249,
+			492,
+			488,
+			499,
+			576,
+			744
+		],
+		"TopPos": [
+			354,
+			28,
+			241,
+			330,
+			430,
+			83
+		],
+		"OptionArray": [
+			
+			"Bladder",
+			"Prostate",
+			"L5",
+			"Pubis",
+			"Femoral neck",
+			"Ilium"
+		],
+		"DropPosition": [
+			"Left",
+			"Right",
+			"Left",
+			"Right",
+			"Left",
+			"Left"
+		],
+		"CorrectOptionArray": [
+			"Femoral neck",
+			"L5",
+			"Bladder",
+			"Prostate",
+			"Pubis",
+			"Ilium"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Pelvis Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_15.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			414,
+			271,
+			467,
+			546,
+			483
+		],
+		"TopPos": [
+			33,
+			234,
+			149,
+			283,
+			403
+		],
+		"OptionArray": [
+			"Acetabulum",
+			"Seminal vesicle",
+			"Anal canal",
+			"Bladder",
+			"Rectus abdominis"	
+		],
+		"DropPosition": [
+			"Left",
+			"Right",
+			"Left",
+			"Right",
+			"Left"
+		],
+		"CorrectOptionArray": [
+			"Rectus abdominis",
+			"Acetabulum",
+			"Bladder",
+			"Seminal vesicle",
+			"Anal canal"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Pelvis Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_16.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			463,
+			469,
+			476,
+			481
+		],
+		"TopPos": [
+			56,
+			258,
+			345,
+			426
+		],
+		"OptionArray": [
+			"Mid",
+			"Apex",
+			"Bladder",
+			"Base"
+		],
+		"DropPosition": [
+			"Left",
+			"Right",
+			"Left",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Bladder",
+			"Base",
+			"Mid",
+			"Apex"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Pelvis Radiology"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_17.png",
 			"hotSpotImageWidth": "984",
 			"hotSpotImageHeight": "482",
 			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
@@ -42,17 +1230,29 @@
 		],
 		"DropPosition": [
 			"Left",
-			"Right"
+			"Right",
+			"Left",
+			"Right",
+			"Left"
 		],
 		"CorrectOptionArray": [
-			"Right hemidiaphragm",
-			"Left hemidiaphragm"
+			"Ant. fibromusc. stroma",
+			"Transition zone",
+			"Peripheral zone",
+			"Central zone",
+			"Rectum"
 		],
 		"DropListArray": [
 			"1",
-			"2"
+			"2",
+			"3",
+			"4",
+			"5"
 		],
 		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
 			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
 			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
 		]
