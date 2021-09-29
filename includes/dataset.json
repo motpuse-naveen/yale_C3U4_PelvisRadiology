@@ -31,17 +31,17 @@
 		"LeftPos": [
 			342,
 			494,
-			550,
+			563,
 			500,
-			576,
+			585,
 			653
 		],
 		"TopPos": [
 			295,
 			144,
 			300,
-			326,
-			350,
+			340,
+			342,
 			80
 		],
 		"OptionArray": [
@@ -56,7 +56,7 @@
 			"Left",
 			"Top",
 			"Top",
-			"Left",
+			"Bottom",
 			"Right",
 			"Right"
 		],
@@ -129,7 +129,7 @@
 		"OptionArray": [
 			"Sacroiliac joint",
 			"Psoas",
-			"LLium",
+			"llium",
 			"Sacrum"
 		],
 		"DropPosition": [
@@ -142,7 +142,7 @@
 			"Psoas",
 			"Sacroiliac joint",
 			"Sacrum",
-			"LLium"
+			"llium"
 		],
 		"DropListArray": [
 			"1",
@@ -346,7 +346,7 @@
 		],
 		"OptionArray": [
 			"Piriformis",
-			"LLiacus",
+			"lliacus",
 			"Gluteus medius",
 			"Gluteus  maximus",
 			"Gluteus minimus"	
@@ -361,7 +361,7 @@
 		"CorrectOptionArray": [
 			"Gluteus medius",
 			"Gluteus  maximus",
-			"LLiacus",
+			"lliacus",
 			"Gluteus minimus",
 			"Piriformis"
 		],
@@ -853,8 +853,7 @@
 			"Seminal vesicle",
 			"Anal canal",
 			"Acetabulum",
-			"Femoral head"
-			
+			"Femoral head"	
 		],
 		"DropListArray": [
 			"1",
